@@ -6,19 +6,19 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express" : "*" ,
-    "connect" : "*" ,
-    "ejs" : "*" ,
-    "jade" : "*",
-    "favicon" : "*",
-    "serve-favicon" : "*",
-    "logger" : "*",
-    "json" : "*",
-    "body-parser" : "*",
-    "errorhandler" : "*",
-    "method-override" : "*",
-    "morgan" : "*",
-    "express-session" : "*",
-    "dotenv" : "*"
+    "express": "*",
+    "connect": "*",
+    "ejs": "*",
+    "jade": "*",
+    "favicon": "*",
+    "serve-favicon": "*",
+    "logger": "*",
+    "json": "*",
+    "body-parser": "*",
+    "errorhandler": "*",
+    "method-override": "*",
+    "morgan": "*",
+    "express-session": "*",
+    "dotenv": "*"
   }
 }
